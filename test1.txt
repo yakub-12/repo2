@@ -1,10 +1,1 @@
- Volume in drive C is WINDOWS
- Volume Serial Number is C2FF-20FC
-
- Directory of C:\Users\shaik\OneDrive\Desktop\myproject
-
-07-03-2022  21:53    <DIR>          .
-07-03-2022  20:55    <DIR>          ..
-07-03-2022  21:53                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  711,772,262,400 bytes free
+ change 1
